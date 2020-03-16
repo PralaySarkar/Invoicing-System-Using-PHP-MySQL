@@ -1,0 +1,4 @@
+"User id","User name",Email,Password,Role,"Last login date",Status
+1,admin,admin@demo.com,admin,Admin,2018-05-09,1
+2,John,john@demo.com,john,Staff,2018-05-09,1
+7,pralay,pcsarkar7468@gmail.com,Pralay@99,1,2020-03-12,1
