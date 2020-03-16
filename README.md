@@ -14,3 +14,18 @@ and many more. The admin can manage orders, customers, category, company profile
 It also contains user management for easy management of the system.
 Design of this project is pretty simple so that the user won’t find any difficulties while working on
 it. Invoicing System in PHP helps the user in creating daily/monthly invoice GST compliant.
+
+# To Run This Software
+<br/>To run this software you must have installed virtual server XAAMP
+on your PC. After starting Apache and MySQL in XAMPP, follow the following steps<br/>
+ 1st Step: Extract Files<br/>
+ 2nd Step: Copy the main project folder<br/>
+ 3rd Step: Paste the folder in xampp/htdocs/<br/>
+# Now Connecting the database
+ 4th Step: Open a browser and go to URL http://localhost/phpmyadmin/<br/>
+ 5th Step: Click on the databases tab<br/>
+ 6th Step: Create a database naming “invoicing” and then click on the import tab<br/>
+ 7th Step: Click on browse file and select “invoicing.sql” file which is inside “DATABASE” folder<br/>
+ 8th Step: Click on go<br/>
+ 9th Step: Open a browser and go to URL http://localhost/Invoicing/
+You
