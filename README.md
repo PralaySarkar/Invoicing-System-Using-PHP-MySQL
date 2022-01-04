@@ -1,4 +1,4 @@
-# Invoicing-System-Using-PHP-MySQL
+# Invoicing System Using PHP MySQL
 
 # About Project
 <br/>This Invoicing System is developed using HTML, CSS , Bootstrap, JavaScript,
@@ -28,4 +28,3 @@ on your PC. After starting Apache and MySQL in XAMPP, follow the following steps
 - 7th Step: Click on browse file and select “invoicing.sql” file which is inside “DATABASE” folder<br/>
 - 8th Step: Click on go<br/>
 - 9th Step: Open a browser and go to URL http://localhost/Invoicing/
-You
